@@ -1,0 +1,4 @@
+# PyTorch is installed separately with the CUDA build that matches the driver, e.g.
+#   pip install torch==2.4.1 --index-url https://download.pytorch.org/whl/cu121
+numpy>=1.24,<2.0
+scipy>=1.10
